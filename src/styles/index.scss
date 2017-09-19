@@ -1,11 +1,5 @@
-// Bootstrap library
-@import 'bootstrap/scss/bootstrap';
-
 // My Bootstrap configuration
 @import 'custom_bootstrap';
 
-$theme-colors: (
-  primary: $new-color,
-  success: #FF0000,
-  danger : #00ff00
-) !default;
+// Bootstrap library
+@import 'bootstrap/scss/bootstrap';
