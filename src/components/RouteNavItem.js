@@ -1,6 +1,6 @@
 import React from "react";
 import { Route } from "react-router-dom";
-import { NavItem } from "react-bootstrap";
+import { NavItem } from "reactstrap";
 
 export default props =>
   <Route
